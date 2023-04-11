@@ -131,6 +131,11 @@ function App() {
           }, 0)}
         </span>
       </h1>
+      <div className="logo-container">
+        <div className="logo-item"><img src="https://cdn-icons-png.flaticon.com/512/4149/4149706.png" alt="finanzas-digitales"/></div>
+        <div className="logo-item"><img src="https://cdn-icons-png.flaticon.com/512/3490/3490161.png" alt="finanza"/></div>
+        <div className="logo-item"><img src="https://cdn-icons-png.flaticon.com/512/2846/2846207.png" alt="financiero"/></div>
+      </div>
     </>
   );
 }
